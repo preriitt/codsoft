@@ -119,9 +119,9 @@ print("the factorial is " ,fact)'''
 
 
 
-import random
-num=random.randint(1,7)
-print(num)
+# import random
+# num=random.randint(1,7)
+# print(num)
 
 
 
